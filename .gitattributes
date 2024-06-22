@@ -1,2 +1,3 @@
 simpleT5 filter=lfs diff=lfs merge=lfs -text
 trained_t5_model.pkl filter=lfs diff=lfs merge=lfs -text
+trained_t5_model.zip filter=lfs diff=lfs merge=lfs -text
